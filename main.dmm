@@ -1,0 +1,17 @@
+"a" = (/turf/wall,/area)
+"b" = (/turf/grass,/area)
+"c" = (/obj/item/logs,/turf/grass,/area)
+"d" = (/mob/inanimate/tree,/turf/grass,/area)
+
+(1,1,1) = {"
+aaaaaaaaaa
+aabbbbbbaa
+abbbbbbbba
+abbbbbbbba
+acccccbbba
+acccccbdba
+acccccbbba
+abbbbbbbba
+aabbbbbbaa
+aaaaaaaaaa
+"}
